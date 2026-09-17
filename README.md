@@ -393,15 +393,7 @@ These features are planned for future releases:
 
 ---
 
-## 📄 License
 
-License information can be added here. If a LICENSE file exists in your project, reference it:
-
-```
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
----
 
 <div align="center">
 
@@ -415,4 +407,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Last Updated:** September 2026 | **Maintained By:** YOUR-USERNAME
+**Last Updated:** September 2026 | **Maintained By:** siteshraj-prog
